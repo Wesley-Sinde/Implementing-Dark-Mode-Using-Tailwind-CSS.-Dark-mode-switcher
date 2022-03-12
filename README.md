@@ -1,0 +1,2 @@
+# Implementing-Dark-Mode-Using-Tailwind-CSS.-Dark-mode-switcher
+Dark Mode is a display setting built for user interfaces. It lets users change the theme color of the application to black or a color closer to black.  Recently, most developers have been including this feature in their applications. The applications contain a toggle switch that changes the color to dark or light when clicked.  The recent version of Tailwind css comes with a feature that enables users to add dark mode to their webpages.  In this tutorial, we will use the feature to add a dark theme to our page.
