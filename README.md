@@ -91,7 +91,7 @@ The div will contain the following classes:
 This is how it should look like at this point:
 
 Result
-<p align="center"><a target="_blank"><img src="https://www.section.io/engineering-education/implementing-dark-mode-using-tailwind-css/switch1.jpg" width="100"></a></p>
+<p align="center"><a target="_blank"><img src="https://www.section.io/engineering-education/implementing-dark-mode-using-tailwind-css/switch1.jpg" width="400"></a></p>
 In the code above:
 
 * flex will align content vertically on the same line, while justify-end will align the switch to the end of the container’s space. The switch is moved to the right.
@@ -122,7 +122,7 @@ At this point, our switch should look like the one below:
 
 Step 3 end result
 
-<p align="center"><a target="_blank"><img src="https://www.section.io/engineering-education/implementing-dark-mode-using-tailwind-css/switch2.jpg" width="100"></a></p>
+<p align="center"><a target="_blank"><img src="https://www.section.io/engineering-education/implementing-dark-mode-using-tailwind-css/switch2.jpg" width="400"></a></p>
 Let’s add some custom CSS to the ball for it to move when we click on it!
 
 For the custom CSS, let us name the ball switch-ball and add style using <style> element under the <head> tag.
@@ -145,7 +145,7 @@ when the checkbox is clicked, the ball will slide to right. transform property m
 transition property will make the ball slide smoothly and it will reach the other side within 0.3 seconds.
 This is how it slides:
 
-<p align="center"><a target="_blank"><img src="https://www.section.io/engineering-education/implementing-dark-mode-using-tailwind-css/switch3.gif" width="100"></a></p>
+<p align="center"><a target="_blank"><img src="https://www.section.io/engineering-education/implementing-dark-mode-using-tailwind-css/switch3.gif" width="400"></a></p>
 Ball Sliding
 
 
